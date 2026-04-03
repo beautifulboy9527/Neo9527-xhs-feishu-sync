@@ -1,0 +1,15 @@
+{
+  "channels": {
+    "feishu": {
+      "appId": "飞书应用的 App ID",
+      "appSecret": "飞书应用的 App Secret"
+    }
+  },
+  "base_token": "多维表格的 Base Token（从URL获取）",
+  "notes_table_id": "笔记表 Table ID",
+  "authors_table_id": "博主表 Table ID",
+  "comments_table_id": "评论表 Table ID",
+  "xhs_cookie": "可选：小红书 cookie 字符串",
+  "xhs_a1": "可选：a1 值",
+  "xhs_web_session": "可选：web_session 值"
+}

@@ -1,0 +1,11 @@
+{
+  "base_token": "在此填写多维表格 Base 的 token（见首次配置说明）",
+  "notes_table_id": "笔记数据表的 table_id",
+  "authors_table_id": "博主数据表的 table_id",
+  "rewrite_table_id": "可选：仿写/分析表 table_id，不用可留空或删除键",
+  "xhs_cookie": "可选：小红书 cookie 字符串（建议优先用环境变量 XHS_COOKIE）",
+  "xhs_cookie_file": "可选：cookie 文本文件路径（例如 ../tmp/xhs_cookie.txt）",
+  "xhs_a1": "可选：只填 a1 也可（会自动拼装 cookie）",
+  "xhs_web_session": "可选：与 a1 配套，建议填写",
+  "xhs_id_token": "可选：可提升成功率"
+}
